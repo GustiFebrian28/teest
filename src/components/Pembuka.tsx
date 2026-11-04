@@ -13,6 +13,7 @@ export default function Pembuka({ onBuka }: { onBuka: () => void }) {
       transition={{ duration: 0.8, ease: "easeOut" }}
     >
       <h1 className="font-judul text-3xl leading-snug text-krem sm:text-4xl">
+        aSasasa
         {JUDUL_PEMBUKA}
       </h1>
       <p className="mt-4 font-judul text-xl tracking-wide text-emas">
