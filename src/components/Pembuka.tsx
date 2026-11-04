@@ -14,7 +14,7 @@ export default function Pembuka({ onBuka }: { onBuka: () => void }) {
     >
       <div className="flex flex-col items-center">
         <h1 className="font-judul text-3xl leading-snug text-krem sm:text-4xl">
-          Bismillah.. Ada kejutan kecil untukmu
+          Bismillah..
         </h1>
         <h1 className="font-judul text-3xl leading-snug text-krem sm:text-4xl">
           Ada kejutan kecil untukmu
