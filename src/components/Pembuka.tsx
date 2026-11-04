@@ -14,7 +14,10 @@ export default function Pembuka({ onBuka }: { onBuka: () => void }) {
     >
       <div className="flex flex-col items-center">
         <h1 className="font-judul text-3xl leading-snug text-krem sm:text-4xl">
-          {JUDUL_PEMBUKA}
+          Bismillah.. Ada kejutan kecil untukmu
+        </h1>
+        <h1 className="font-judul text-3xl leading-snug text-krem sm:text-4xl">
+          Ada kejutan kecil untukmu
         </h1>
         <p className="mt-4 font-judul text-xl tracking-wide text-emas">
           {NAMA_LENGKAP}
