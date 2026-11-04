@@ -1,6 +1,6 @@
 // Semua teks tampilan ada di sini. Mengganti teks tidak perlu menyentuh komponen.
 
-export const JUDUL_PEMBUKA = "Ada kejutan kecil untukmu";
+export const JUDUL_PEMBUKA = "Bismillah.. Ada kejutan kecil untukmu";
 export const NAMA_LENGKAP = "Elza Dwi Triyana Dewi";
 
 export type Kartu = {
